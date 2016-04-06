@@ -54,6 +54,3 @@ temp/
 *.dll
 *.jnilib
 natives/
-
-leavu3-debug-log.txt
-leavu3-log.txt
